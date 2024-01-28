@@ -36,7 +36,7 @@ The following **required** functionality is completed:
     
 ## Video Walkthrough
 
-![x](https://www.loom.com/share/8c0f1b4eb3194566b9f32d7250461a99?sid=50e7e701-7ac4-436b-8ae9-933dd4de297a)
+Link: https://www.loom.com/share/8c0f1b4eb3194566b9f32d7250461a99?sid=50e7e701-7ac4-436b-8ae9-933dd4de297a
 
 ## Notes
 

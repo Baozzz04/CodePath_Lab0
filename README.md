@@ -33,6 +33,10 @@ The following **required** functionality is completed:
 2. Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
 
     I want to design an app that can be used to be published in my portfolio. The app will help the recruiters to know more about me. I will add buttons and transitions between texts to create user-friendly experiences. The app needs to have a technical and pleasant to-the-eye design.
+    
+## Video Walkthrough
+
+![x](https://www.loom.com/share/8c0f1b4eb3194566b9f32d7250461a99?sid=50e7e701-7ac4-436b-8ae9-933dd4de297a)
 
 ## Notes
 
